@@ -1,0 +1,15 @@
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/bin/Debug/net8.0/Dice-Game-Csharp
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/bin/Debug/net8.0/Dice-Game-Csharp.deps.json
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/bin/Debug/net8.0/Dice-Game-Csharp.runtimeconfig.json
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/bin/Debug/net8.0/Dice-Game-Csharp.dll
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/bin/Debug/net8.0/Dice-Game-Csharp.pdb
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.AssemblyInfoInputs.cache
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.AssemblyInfo.cs
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.csproj.CoreCompileInputs.cache
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.sourcelink.json
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.dll
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/refint/Dice-Game-Csharp.dll
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.pdb
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/Dice-Game-Csharp.genruntimeconfig.cache
+/Users/frameverse/RiderProjects/Dice-Game-Csharp/obj/Debug/net8.0/ref/Dice-Game-Csharp.dll
